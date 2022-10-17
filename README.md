@@ -1,5 +1,5 @@
 # Doctor API
-Doctorapi for managing doctors and their specialisations
+Doctorapi for managing doctors and their specializations
 
 ## List of API endpoints:
 - http://127.0.0.1:8000/api/doc/swagger/ - use this endpoint for convenient managing of all existing api endpoints
