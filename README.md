@@ -4,7 +4,7 @@ Doctorapi for managing doctors and their specializations
 ## List of API endpoints:
 - http://127.0.0.1:8000/api/doc/swagger/ - use this endpoint for convenient managing of all existing api endpoints
 - http://127.0.0.1:8000/admin/ - admin panel
-- http://127.0.0.1:8000/api/doctor/areas/ - list of areas (specialisations)
+- http://127.0.0.1:8000/api/doctor/areas/ - list of areas (specializations)
 - http://127.0.0.1:8000/api/doctor/doctors/ - list of doctors
 - http://127.0.0.1:8000/api/doctor/doctors/?areas= - filter by area id (ex. ?areas=2,5)
 - http://127.0.0.1:8000/api/doctor/doctors/?experience - filter by doctor experience (ex. ?experience=2)
